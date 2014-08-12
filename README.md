@@ -1,2 +1,0 @@
-minimalviablebook.github.io
-===========================
