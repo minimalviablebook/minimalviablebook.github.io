@@ -4,7 +4,7 @@
   <title><![CDATA[Minimal Viable Book]]></title>
   <link href="http://minimalviablebook.com/atom.xml" rel="self"/>
   <link href="http://minimalviablebook.com/"/>
-  <updated>2014-08-12T10:26:47-07:00</updated>
+  <updated>2014-08-12T12:02:31-07:00</updated>
   <id>http://minimalviablebook.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,9 +14,50 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Start by writing]]></title>
+    <link href="http://minimalviablebook.com/blog/start-by-writing/"/>
+    <updated>2014-08-13T08:15:00-07:00</updated>
+    <id>http://minimalviablebook.com/blog/start-by-writing</id>
+    <content type="html"><![CDATA[<p>This may seem to be a no-brainer, but you start a book by writing.  It doesn&rsquo;t have to be much of anything.  It could be <em>complete crap</em>
+I encourage you to write <em>complete crap</em> if that is all you can do.  Because writing anything is the start.  Everything until that point is just dreaming.
+You want to be an auther right?  So go write!  One paragraph.  &ldquo;It was a dark and stormy night&hellip;&rdquo; or whatever.  I will wait.</p>
+
+<p>(Next day)</p>
+
+<p>OK.  Did you write something?  Yes!  Awesome!</p>
+
+<p>If not, let us try this again.  The day I became an author was a Monday in May.  I had been biking around Google for many months (even years) and while biking
+all those months/years I had been telling myself stories.  I would write stories and listen to them in my mind.</p>
+
+<p>But this particular Monday when I got home, I did something &lsquo;new&rsquo;.  I wrote down the story that I just had in my head.  I created a word document:</p>
+
+<ul>
+<li> SlumsOfPA_mlf1a1.doc</li>
+</ul>
+
+
+<p>The first part is the title of the book: &ldquo;The Slums of Palo Alto&rdquo;.  The second part after the underscore are my initials and then a version counter &lsquo;1a1&rsquo;.  Together
+these form part of a vector-clock, but that is a different topic.  If you ignore the &lsquo;mlf1a&rsquo; we get a file named:</p>
+
+<ul>
+<li> SlumsOfPA_1.doc</li>
+</ul>
+
+
+<p>OK.  Now you go and create a file named &lsquo;{Title}_1.doc&rsquo; where you replace the &lsquo;{Title}&rsquo; part with your actual title.  I will wait.</p>
+
+<p>Note that some day in the future you can change your title.  So don&rsquo;t worry about the title being &ldquo;final&rdquo;, it is just a title.</p>
+
+<p>Now into this file type the title in full as the very first line.</p>
+
+<blockquote><p>The Slums of Palo Alto</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
     <link href="http://minimalviablebook.com/blog/site-launch/"/>
-    <updated>2014-08-12T18:15:00-07:00</updated>
+    <updated>2014-08-12T08:15:00-07:00</updated>
     <id>http://minimalviablebook.com/blog/site-launch</id>
     <content type="html"><![CDATA[<p>I have been writing a book <a href="http://slumsofpaloalto.com/.">http://slumsofpaloalto.com/.</a>  How I started, progressed, and finished is <em>very different</em> from
 how others think about books and publishing.  It is insanely different.  And insanely better.  I hope describing it helps you.</p>
