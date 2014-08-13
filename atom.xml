@@ -4,7 +4,7 @@
   <title><![CDATA[Minimal Viable Book]]></title>
   <link href="http://minimalviablebook.com/atom.xml" rel="self"/>
   <link href="http://minimalviablebook.com/"/>
-  <updated>2014-08-12T12:06:45-07:00</updated>
+  <updated>2014-08-13T15:17:32-07:00</updated>
   <id>http://minimalviablebook.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Find a reader]]></title>
+    <link href="http://minimalviablebook.com/blog/find-a-reader/"/>
+    <updated>2014-08-14T08:15:00-07:00</updated>
+    <id>http://minimalviablebook.com/blog/find-a-reader</id>
+    <content type="html"><![CDATA[<p>This blog is &lsquo;sequential&rsquo;.  Please start at the beginning and work forward from there: (Beginning)[site-launch]</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Start by writing]]></title>
@@ -27,7 +36,7 @@ You want to be an auther right?  So go write!  One paragraph.  &ldquo;It was a d
 <p>OK.  Did you write something?  Yes!  Awesome!</p>
 
 <p>If not, let us try this again.  The day I became an author was a Monday in May.  I had been biking around Google for many months (even years) and while biking
-all those months/years I had been telling myself stories.  I would write stories and listen to them in my mind.</p>
+all those months/years I had been telling myself stories.  I would write stories in my head and listen to them in my head.</p>
 
 <p>But this particular Monday when I got home, I did something &lsquo;new&rsquo;.  I wrote down the story that I just had in my head.  I created a word document:</p>
 
