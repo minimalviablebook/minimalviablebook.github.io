@@ -4,7 +4,7 @@
   <title><![CDATA[Minimal Viable Book]]></title>
   <link href="http://minimalviablebook.com/atom.xml" rel="self"/>
   <link href="http://minimalviablebook.com/"/>
-  <updated>2014-08-13T15:29:35-07:00</updated>
+  <updated>2014-08-13T15:30:16-07:00</updated>
   <id>http://minimalviablebook.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://minimalviablebook.com/blog/find-a-reader/"/>
     <updated>2014-08-14T08:15:00-07:00</updated>
     <id>http://minimalviablebook.com/blog/find-a-reader</id>
-    <content type="html"><![CDATA[<p>This blog is &lsquo;sequential&rsquo;.  Please start at <a href="the%20beginning">site-launch</a> and work forward from there with the bottom-right-hand arrows.</p>
+    <content type="html"><![CDATA[<p>This blog is &lsquo;sequential&rsquo;.  Please start at <a href="../site-launch">the beginning</a> and work forward from there with the bottom-right-hand arrows.</p>
 
 <p>Now that you have started your book with some writings in &lsquo;{Title}_1.doc&rsquo;, your next goal is to find a reader.  To this reader you will say</p>
 
